@@ -5,3 +5,12 @@
   height: 1px;
   background: #eee;
 }
+
+/* styling for delete button */
+.delete{
+  color:red;
+  text-decoration:none;
+  margin-left:450px;
+  font-size: 25px;
+  font-weight: bold;
+}
